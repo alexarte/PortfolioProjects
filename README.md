@@ -1,7 +1,7 @@
 # SQL / PostgreSQL / Excel
 ### Description
 
-Preparation of data before implementing visualization tools to the data
+Preparation of data before implementing visualization tools
 
 ### Author 
 @alexarte
